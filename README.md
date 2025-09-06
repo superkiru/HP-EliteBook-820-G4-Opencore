@@ -18,7 +18,6 @@
 - Enable VT-x
 - Disable VT-d (can be used with DisableIOMapper enabled)
 - Disable Fast Charge
-- Enable Turbo Boost on DC
 - Disable HP Application Driver
 - Enable LAN Controller
 - Disable Wake on LAN
