@@ -9,13 +9,12 @@
 - **OS**: Windows 10 Pro 64-bit  
 - **Battery**: 3-cell, 49 Whr Li-ion, up to 14.75 hours  
 - **Weight**: 1.26 kg  
-- **Ports**: 2 × USB 3.0, 1 × USB Type-C, HDMI 1.4, VGA, RJ-45, headphone/mic combo  
+- **Ports**: 2 × USB 3.0, 1 × USB Type-C, DP, VGA, RJ-45, headphone/mic combo, Smart Card Reader
 - **Wireless**: Wi-Fi 802.11ac, Bluetooth 4.2  
 - **Security**: TPM 2.0, optional fingerprint reader, optional Smart Card reader  
 - **Audio**: Dual stereo speakers, integrated microphone, HP Noise Cancellation  
 - **Webcam**: 720p HD, optional IR camera for Windows Hello  
-- **Keyboard**: Spill-resistant, backlit  
-- **Build**: Aluminum chassis, MIL-STD 810G tested  
+
 
 ## BIOS Settings:
 - Disable TPM Security
