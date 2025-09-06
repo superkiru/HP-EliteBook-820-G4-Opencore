@@ -1,81 +1,21 @@
 # Hackintosh EliteBook 820 G4
 
-##Specifications
-
-### Processor
-- Intel Core i5 / i7 (7th Generation, e.g., i5-7200U, i7-7600U)
-- Dual-core with Hyper-Threading
-- Base clock: 2.5 GHz (i5-7200U), Turbo up to 3.1 GHz
-
-### Memory
-- 4GB / 8GB / 16GB DDR4 RAM (configurable)
-- Single or dual-channel support
-- Upgradable up to 32GB
-
-## Storage
-- 128GB / 256GB / 512GB SSD
-- M.2 NVMe or SATA
-- Optional HDD in some models
-
-## Display
-- 12.5" LED-backlit display
-- Resolution options: HD (1366x768), FHD (1920x1080)
-- Optional touchscreen support
-
-## Graphics
-- Integrated Intel HD Graphics 620
-- Optional discrete AMD Radeon 540X in select models
-
-## Ports
-- 2 × USB 3.0 Type-A
-- 1 × USB Type-C (supports DisplayPort & charging)
-- 1 × HDMI 1.4
-- 1 × RJ-45 Ethernet
-- 1 × Headphone/Microphone combo
-- Optional Smart Card reader
-
-## Connectivity
-- Wi-Fi 802.11ac
-- Bluetooth 4.2
-- Optional LTE support
-
-## Keyboard & Input
-- Spill-resistant, backlit keyboard
-- TrackPoint and touchpad
-- Optional touchscreen (for select FHD models)
-
-## Security
-- TPM 2.0
-- Fingerprint reader (optional)
-- HP Sure Start (BIOS protection)
-- Smart card reader (optional)
-
-## Battery
-- 3-cell 45Wh or 4-cell 50Wh Li-ion
-- Up to 12 hours battery life (model-dependent)
-- Hot-swappable battery (some configurations)
-
-## Dimensions & Weight
-- Dimensions: 30.6 x 21.3 x 1.8 cm
-- Weight: 1.13 – 1.34 kg (depending on configuration)
-
-## Operating System
-- Windows 10 Pro / Windows 11 Pro
-- Optional Linux support
-
-## Audio
-- Dual stereo speakers
-- Integrated microphone
-- HP Noise Cancellation software
-
-## Webcam
-- HD webcam 720p
-- Optional IR camera for Windows Hello
-
-## Build
-- Aluminum chassis
-- MIL-STD 810G tested for durability
-
+## Specifications
+- **CPU**: Intel Core i5-7300U (2.6 GHz, 3.5 GHz Turbo, 2C/4T)  
+- **RAM**: 8GB DDR4 (expandable to 32GB)  
+- **Storage**: 256GB SSD (NVMe, HP Turbo Drive G2)  
+- **Display**: 12.5" Full HD (1920×1080), IPS, Anti-Glare  
+- **GPU**: Intel HD Graphics 620  
+- **OS**: Windows 10 Pro 64-bit  
+- **Battery**: 3-cell, 49 Whr Li-ion, up to 14.75 hours  
+- **Weight**: 1.26 kg  
+- **Ports**: 2 × USB 3.0, 1 × USB Type-C, HDMI 1.4, VGA, RJ-45, headphone/mic combo  
+- **Wireless**: Wi-Fi 802.11ac, Bluetooth 4.2  
+- **Security**: TPM 2.0, optional fingerprint reader, optional Smart Card reader  
+- **Audio**: Dual stereo speakers, integrated microphone, HP Noise Cancellation  
+- **Webcam**: 720p HD, optional IR camera for Windows Hello  
+- **Keyboard**: Spill-resistant, backlit  
+- **Build**: Aluminum chassis, MIL-STD 810G tested  
 
 ## BIOS Settings:
 - Disable TPM Security
