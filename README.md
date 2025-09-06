@@ -1,4 +1,5 @@
 # Hackintosh EliteBook 820 G4
+Working EFI folder for this Laptop
 
 ## Specifications
 - **CPU**: Intel Core i5-7300U (2.6 GHz, 3.5 GHz Turbo, 2C/4T)  
