@@ -1,9 +1,13 @@
 # Hackintosh EliteBook 820 G4
 Working EFI folder for this Laptop
 
+
 ## ⚠️ Warning
 SMBIOS data is blank! You **must generate SMBIOS** using GenSMBIOS before booting macOS.
 https://github.com/corpnewt/GenSMBIOS.git
+
+![Demo](./GenSMBIOS.gif)
+
 
 
 ## Specifications
