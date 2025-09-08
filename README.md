@@ -1,6 +1,11 @@
 # Hackintosh EliteBook 820 G4
 Working EFI folder for this Laptop
 
+## ⚠️ Warning
+SMBIOS data is blank! You **must generate SMBIOS** using GenSMBIOS before booting macOS.
+https://github.com/corpnewt/GenSMBIOS.git
+
+
 ## Specifications
 - **CPU**: Intel Core i5-7300U (2.6 GHz, 3.5 GHz Turbo, 2C/4T)  
 - **RAM**: 8GB DDR4 (expandable to 32GB)  
