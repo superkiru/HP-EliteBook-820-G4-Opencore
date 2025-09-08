@@ -6,7 +6,7 @@ Working EFI folder for this Laptop
 SMBIOS data is blank! You **must generate SMBIOS** using GenSMBIOS before booting macOS.
 https://github.com/corpnewt/GenSMBIOS.git
 
-<img src="gensmbios.gif" width="400" alt="Tutorial demo">
+<img src="gensmbios.gif" width="540" alt="Tutorial demo">
 
 
 ## Specifications
